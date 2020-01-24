@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SingleResponsiblePrinciple
+﻿namespace SingleResponsiblePrinciple
 {
     public class UserManager : IUserManager
     {

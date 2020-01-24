@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OpenClosePrinciple
+﻿namespace OpenClosePrinciple
 {
     public interface IBlacklistedUser
     {
